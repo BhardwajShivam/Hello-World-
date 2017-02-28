@@ -2,7 +2,7 @@
 <head>
 <center><h1>WHAT IS THE MEANING OF JAVA?</h1></center>
 <title>
-<b>Meaning of Java.</b>
+Meaning of Java.
 </title>
 </head>
 <body>
@@ -20,7 +20,7 @@ Later, in 2009, <b>Oracle Corporation</b> acquired Sun Microsystems and took own
 <head>
 <center><h1>WHAT IS JAVASCRIPT</h1></center>
 <title>
-<b>JavaScript</b>
+JavaScript
 </title>
 </head>
 <body>
@@ -36,7 +36,7 @@ JavaScript is <b>prototype-based</b> with first-class functions, making it a mul
 <head>
 <center><h1>OPENSOURCE</h1></center>
 <title>
-<b>What is opensource</b>
+What is opensource
 </title>
 </head>
 <body>
@@ -56,7 +56,7 @@ Open source software programmers can charge money for the open source software t
 <head>
 <center><h1>Jscript</h1></center>
 <title>
-<b>What is Jscript?</b>
+What is Jscript?
 </title>
 </head>
 <body>
