@@ -1,6 +1,6 @@
 <html>
 <head>
-<center><h1>WHAT IS THE MEANING OF JAVA?</h1></center>
+<center><h1>WHAT IS JAVA ?</h1></center>
 <title>
 Meaning of Java.
 </title>
@@ -18,7 +18,7 @@ Later, in 2009, <b>Oracle Corporation</b> acquired Sun Microsystems and took own
 </html>
 <html>
 <head>
-<center><h1>WHAT IS JAVASCRIPT</h1></center>
+<center><h1>WHAT IS JAVASCRIPT?</h1></center>
 <title>
 JavaScript
 </title>
